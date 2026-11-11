@@ -1,0 +1,6 @@
+{
+  "name": "CampusAttend - Student Attendance Portal",
+  "description": "Comprehensive student attendance portal featuring teacher roster management, student calendar tracking, dynamic rotating QR code check-in, geofencing verification, and attendance analytics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
